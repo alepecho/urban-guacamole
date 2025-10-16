@@ -2,7 +2,7 @@
 
 /*
 |--------------------------------------------------------------------------
-| Create The Application
+| Create The Application CAMBIOS PARA REALIZAR PRUEBA EN GITHUB Y LOCAL
 |--------------------------------------------------------------------------
 |
 | The first thing we will do is create a new Laravel application instance
